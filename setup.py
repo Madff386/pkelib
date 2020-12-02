@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="example-pkg-Mdaff169", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Mdaff169",
     author_email="dehersbach@gmail.com",
     description="A small example package",
@@ -18,5 +18,5 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.6',
+    python_requires='>=3.7',
 )
