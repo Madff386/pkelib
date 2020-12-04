@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pkelib", 
-    version="0.0.2",
+    version="1.0.0",
     author="Mdaff169",
     author_email="dehersbach@gmail.com",
     description="PKE library",
