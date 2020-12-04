@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example-pkg-Mdaff169", # Replace with your own username
+    name="pkelib", 
     version="0.0.2",
     author="Mdaff169",
     author_email="dehersbach@gmail.com",
-    description="A small example package",
+    description="PKE library",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Mdaff386/pkelib",
+    url="https://github.com/Madff386/pkelib",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
